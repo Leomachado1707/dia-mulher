@@ -14,7 +14,7 @@ export default function Home() {
       </div>
       <hr className="w-[95%] my-6"/>
       <div className="w-[90%] text-center">
-        <p>Eu queria primeiramente te parabenizar pelo dia e te dizer que a cada passa, meu coração se enche mais de carinho, admiração e amor por você. Você é a razão pela qual eu tento ser melhor a cada dia. E é por vc que eu vou lutar até o último dia da minha vida. Queria dizer mais uma vez que sou muito grato por Deus ter colocado você em minha vida e por ter cruzado nossos caminhos. Você é a razão dos meus sorrisos mais sinceros e tudo ao seu lado se torna especial e significativo. Eu te amo meu amor ❤️</p>
+        <p>Eu queria primeiramente te parabenizar pelo dia e te dizer que a cada dia que passa, meu coração se enche mais de carinho, admiração e amor por você. Você é a razão pela qual eu tento ser melhor a cada dia. E é por vc que eu vou lutar até o último dia da minha vida. Queria dizer mais uma vez que sou muito grato por Deus ter colocado você em minha vida e por ter cruzado nossos caminhos. Você é a razão dos meus sorrisos mais sinceros e tudo ao seu lado se torna especial e significativo. Eu te amo meu amor ❤️</p>
       </div>
     </div>
   );

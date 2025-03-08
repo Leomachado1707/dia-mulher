@@ -20,9 +20,9 @@ const ContadorIdade: React.FC = () => {
       let anos = agora.getFullYear() - nascimento.getFullYear();
       let meses = agora.getMonth() - nascimento.getMonth();
       let dias = agora.getDate() - nascimento.getDate();
-      let horas = agora.getHours();
-      let minutos = agora.getMinutes();
-      let segundos = agora.getSeconds();
+      const horas = agora.getHours();
+      const minutos = agora.getMinutes();
+      const segundos = agora.getSeconds();
 
       // Corrigindo caso o mês e o dia ainda não tenham ocorrido neste ano
       if (meses < 0 || (meses === 0 && dias < 0)) {
